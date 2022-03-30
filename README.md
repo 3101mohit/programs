@@ -1,4 +1,4 @@
-# Uttkarsh
+
 phython progress on 23 sept
 
 #1)programme to all numbers between 2000 and 3200 which are divisible by 5 but are not multple of 5
